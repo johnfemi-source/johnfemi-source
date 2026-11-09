@@ -59,6 +59,11 @@ I'm a passionate Frontend Software Engineer who enjoys building clean, scalable,
 
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>
 
+<img src="https://img.shields.io/badge/Java"/>
+
+<img src="https://img.shields.io/badge/Python"/>
+
+
 </p>
 
 ---
